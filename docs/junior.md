@@ -8,7 +8,8 @@
     * Crie um formulário de cadastro para administradores (nome, e-mail, senha).
     * Implemente login e logout para administradores.
 * **Gerenciamento de Influenciadores:**
-    * Crie um formulário de cadastro para influenciadores (nome, nicho, alcance, foto, username do Instagram).
+    * Crie um formulário de cadastro para influenciadores (nome, nicho, alcance, foto, username do Instagram, endereço).
+    * Utilize o https://viacep.com.br/ para preencher o endereço com base no cep.
     * Liste todos os influenciadores cadastrados.
     * Visualize os detalhes de um influenciador específico.
     * Edite os dados de um influenciador.
