@@ -1,31 +1,27 @@
-# Desenvolvedor Júnior
+## Desafio Desenvolvedor Júnior: Plataforma de Influenciadores
 
-**Objetivos:** Implementar funcionalidades básicas e entender o fluxo de trabalho com Angular e Spring Boot.
+**Objetivo:** Construir uma plataforma web básica para gerenciar influenciadores.
 
-## Tarefas:
-1. Implementar formulários simples para cadastro de um usuário administrador com os seguintes campos:
-    - Nome
-    - E-mail
-    - Senha
-    - Data de Cadastro
-    - Data de Atualização
-2. Criar autenticação básica (login e logout) para o usuário administrador.
-3. Desenvolver uma cadastro simples de influenciadores com os seguintes campos:
-    - Nome
-    - Nicho (Categorias)
-    - Alcance
-    - Foto 
-    - Username do Instagram
-    - Data de Cadastro
-    - Data de Atualização
-3. Promover uma listagem básica dos influenciadores cadastrados.
-4. Permitir uma visualização simples dos dados dos influencidadores cadastrados.
-5. Permitir a edição dos dados dos influenciadores cadastrados.
+**Funcionalidades:**
 
-## Diferenciais avaliados:
+* **Autenticação:**
+    * Crie um formulário de cadastro para administradores (nome, e-mail, senha).
+    * Implemente login e logout para administradores.
+* **Gerenciamento de Influenciadores:**
+    * Crie um formulário de cadastro para influenciadores (nome, nicho, alcance, foto, username do Instagram).
+    * Liste todos os influenciadores cadastrados.
+    * Visualize os detalhes de um influenciador específico.
+    * Edite os dados de um influenciador.
 
-**Testes Unitários:**
-Criar testes básicos para o frontend e backend, demonstrando compreensão dos conceitos de teste.
+**Diferenciais (Bônus):**
 
-**Uso de Controle de Versão:**
- Demonstrar habilidade em usar Git de maneira eficaz, incluindo commits claros e organizados.
+* **Testes Unitários:** Escreva testes básicos para o frontend e o backend.
+* **Controle de Versão:** Utilize o Git de forma organizada, com commits descritivos.
+
+**Observações:**
+
+* Foque na clareza do código e na organização do projeto.
+* Sinta-se à vontade para fazer perguntas se tiver dúvidas.
+* Seja criativo e divirta-se construindo a plataforma!
+
+**Boa sorte!** 🚀 
