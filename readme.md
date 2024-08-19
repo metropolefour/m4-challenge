@@ -1,31 +1,39 @@
-### README Geral
+## README Geral: Plataforma de Engajamento de Influenciadores
 
-Por favor leia este documento do começo ao fim, com muita atenção. O intuito deste teste é avaliar seus conhecimentos técnicos como fullstack, e assim entendermos melhor o quanto você possui conhecimento e o quanto nós podemos te ajudar a crescer e se desenvolver.
+**Bem-vindo(a) ao Desafio!**
+
+Este teste foi elaborado para avaliar suas habilidades técnicas como desenvolvedor(a) fullstack. Queremos entender seu nível de conhecimento e como podemos te ajudar a crescer e se desenvolver na Metropole4.
 
 **Projeto:** Plataforma de Engajamento de Influenciadores
 
-**Descrição:** Este documento fornece instruções gerais sobre como configurar e executar a aplicação completa para conectar marcas a influenciadores digitais. As instruções específicas para cada nível de desenvolvimento estão em documentos separados.
+**Descrição:** A plataforma conectará marcas a influenciadores digitais, facilitando parcerias e campanhas de marketing. Você encontrará instruções detalhadas para cada nível de desenvolvimento (Júnior, Pleno e Sênior) em documentos separados.
 
-**Tecnologias Utilizadas:**
+**Tecnologias:**
 
-- Frontend: Angular ou React JS
-- Backend: Java com Spring Boot ou Node JS
-- Banco de Dados: SQL embarcado (H2, SQLite)
+* **Frontend:** Angular ou React JS (utilize a tecnologia para a qual você está se candidatando)
+* **Backend:** Java com Spring Boot ou Node JS (utilize a tecnologia para a qual você está se candidatando)
+* **Banco de Dados:** SQL embarcado (H2, SQLite)
 
-Trabalhe com a tecnologia que você está se candidatando.
+**Instruções para Entrega:**
 
-**Instruções para entrega:**
+1. **Crie um Repositório:** Crie um repositório público no GitHub (crie uma conta se necessário).
+2. **Implemente o Projeto:** Clone o repositório localmente e implemente o projeto de acordo com as instruções do seu nível de desenvolvimento.
+3. **Faça o Push:** Envie seu projeto local para o repositório público no GitHub.
+4. **Envie o Link:** Envie um e-mail para [endereço de e-mail removido] com o link do seu repositório no GitHub.
 
-- Primeiro, crie um repositório público no Github (crie uma conta se você não possuir).
-- Em seguida, implemente o projeto tal qual descrito abaixo, em seu clone local.
-- Faça o push do seu projeto local para um repositório público no Github.
+**Diferenciais (Opcionais):**
 
-Por fim, envie um via e-mail com o link do projeto em seu repositório para o contato luizfelipe@metropole4.com
+* **Containers:** Utilize Docker ou Kubernetes para gerenciar a aplicação.
+* **CI/CD:** Implemente pipelines de integração contínua e entrega contínua (CI/CD).
+* **AWS:** Utilize serviços da AWS como S3, RDS, EC2, etc.
+* **Segurança:** Implemente boas práticas de segurança em todos os níveis do desenvolvimento.
+* **Logs e Documentação:** Mantenha logs detalhados e uma documentação clara, especialmente no backend.
 
-**Diferenciais:**
+**Observações:**
 
-- Gerenciamento de containers com Docker ou Kubernetes.
-- Criação de automações de CI/CD.
-- Utilização dos serviços AWS (S3, RDS, EC2, etc).
-- Utilização de boas práticas de segurança independente do nível.
-- Manter bons logs e documentação do projeto principalmente no backend.
+* **Leia atentamente:** Leia o documento específico do seu nível de desenvolvimento com atenção.
+* **Qualidade:** Priorize a qualidade do código, a organização e a clareza.
+* **Comunicação:** Se tiver dúvidas, entre em contato conosco.
+* **Boa sorte!** Estamos ansiosos para ver o seu trabalho!
+
+**Equipe Metropole4** 😊 
