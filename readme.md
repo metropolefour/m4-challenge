@@ -8,9 +8,11 @@ Por favor leia este documento do começo ao fim, com muita atenção. O intuito 
 
 **Tecnologias Utilizadas:**
 
-- Frontend: Angular
-- Backend: Java com Spring Boot
+- Frontend: Angular ou React JS
+- Backend: Java com Spring Boot ou Node JS
 - Banco de Dados: SQL embarcado (H2, SQLite)
+
+Trabalhe com a tecnologia que você está se candidatando.
 
 **Instruções para entrega:**
 
