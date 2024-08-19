@@ -15,8 +15,6 @@
     * Edite os dados de um influenciador.
 
 **Diferenciais (Bônus):**
-
-* **Testes Unitários:** Escreva testes básicos para o frontend e o backend.
 * **Controle de Versão:** Utilize o Git de forma organizada, com commits descritivos.
 
 **Observações:**
