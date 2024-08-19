@@ -1,29 +1,34 @@
-# Desenvolvedor Sênior
+## Desafio Desenvolvedor Sênior: Plataforma de Influenciadores e Marcas - Escalável e Segura
 
-**Objetivos:** Arquitetar a aplicação completa e implementar práticas avançadas de segurança e performance.
+**Objetivo:** Arquitetar e implementar uma plataforma robusta e escalável, com foco em segurança, performance e boas práticas de desenvolvimento.
 
-## Tarefas:
+**Funcionalidades:**
 
+* **Funcionalidades do Pleno:**
+    * Todas as funcionalidades do desafio Pleno devem ser mantidas e aprimoradas.
+* **Relacionamento Influenciador-Marca:**
+    * Crie um sistema para associar influenciadores a marcas e vice-versa.
+    * Permita que os usuários visualizem as marcas associadas a um influenciador e os influenciadores associados a uma marca.
+* **Dashboard Interativo:**
+    * Implemente ordenação e paginação na listagem de influenciadores e marcas.
+* **API RESTful:**
+    * Desenvolva uma API RESTful completa e segura para todas as operações CRUD (Create, Read, Update, Delete).
+    * Utilize criptografia de senhas para proteger os dados dos usuários.
+* **Filtros Dinâmicos:**
+    * Crie filtros complexos e personalizáveis no dashboard, permitindo que os usuários combinem múltiplos critérios de busca.
 
-**Tarefas do pleno, mais as seguintes tarefas:**
+**Diferenciais (Bônus):**
 
-8. Criar um relacionamento entre influenciadores e marcas, permitindo que influenciadores sejam associados a marcas e vice-versa.
+* **Arquitetura de Microserviços:**
+    * Projete e implemente alguns componentes da plataforma como microserviços, demonstrando sua capacidade de pensar em escalabilidade e manutenção a longo prazo.
+* **Caching:**
+    * Utilize técnicas de caching (como Redis ou Memcached) para melhorar a performance da aplicação, armazenando em cache dados frequentemente acessados.
 
-9. Implementar de funcionalidades interativas no dashboard, como ordenação, paginação para marcas e influenciadores.
+**Observações:**
 
-10. Desenvolver uma API RESTful segura e eficiente para todas as operações de dados (Create, Read, Update, Delete), incluindo criptografia de senhas.
+* Demonstre sua experiência em arquitetura de software, segurança, performance e boas práticas de desenvolvimento.
+* Escreva um código limpo, modular e bem documentado.
+* Seja proativo e mostre sua capacidade de solucionar problemas complexos.
+* Impressione com sua criatividade e inovação!
 
-11. Implementar filtros dinâmicos e complexos no dashboard, permitindo que os usuários possam filtrar influenciadores e marcas por múltiplos critérios.
-
-12. Planejar e implementar a arquitetura completa do sistema, considerando escalabilidade e manutenção.
-
-13. Uso de padrões de design avançados e melhores práticas para garantir um código.
-
-
-## Diferenciais Implementados:
-
-**Arquitetura de Microserviços::**
-Projetar e implementar alguns componentes como microserviços, preparando o caminho para escalabilidade e manutenção facilitada.
-
-**Implementação de Caching:**
-Usar técnicas de caching para melhorar a performance da aplicação, como caching de dados frequentemente acessados no backend.
+**Este é o seu momento de brilhar!** ✨ 
