@@ -1,27 +1,35 @@
-## Desafio Desenvolvedor Júnior: Plataforma de Influenciadores
+## Desafio Desenvolvedor Pleno: Plataforma de Influenciadores e Marcas
 
-**Objetivo:** Construir uma plataforma web básica para gerenciar influenciadores.
+**Objetivo:** Expandir a plataforma existente para incluir o gerenciamento de marcas e implementar funcionalidades intermediárias, com foco em segurança e otimização.
 
 **Funcionalidades:**
 
-* **Autenticação:**
-    * Crie um formulário de cadastro para administradores (nome, e-mail, senha).
-    * Implemente login e logout para administradores.
-* **Gerenciamento de Influenciadores:**
-    * Crie um formulário de cadastro para influenciadores (nome, nicho, alcance, foto, username do Instagram).
-    * Liste todos os influenciadores cadastrados.
-    * Visualize os detalhes de um influenciador específico.
-    * Edite os dados de um influenciador.
+* **Funcionalidades do Júnior:**
+    * Todas as funcionalidades do desafio Júnior devem ser mantidas e aprimoradas.
+* **Gerenciamento de Marcas:**
+    * Crie um formulário de cadastro para marcas (nome, descrição, nicho).
+    * Liste todas as marcas cadastradas.
+    * Visualize os detalhes de uma marca específica.
+    * Edite os dados de uma marca.
+* **Busca Avançada:**
+    * Implemente filtros para a busca de influenciadores (por nicho, alcance, etc.).
+* **Sugestões de Influenciadores (Opcional):**
+    * Crie um algoritmo simples para sugerir influenciadores para marcas com base em seus nichos e alcance.
 
 **Diferenciais (Bônus):**
 
-* **Testes Unitários:** Escreva testes básicos para o frontend e o backend.
-* **Controle de Versão:** Utilize o Git de forma organizada, com commits descritivos.
+* **Segurança:**
+    * Implemente validações avançadas no frontend (campos obrigatórios, formatos de e-mail, etc.).
+    * Utilize boas práticas de segurança no backend para prevenir SQL Injection e Cross-Site Scripting (XSS).
+* **Otimização:**
+    * Utilize lazy loading de módulos no Angular para melhorar o desempenho de carregamento.
+    * Crie índices no banco de dados para otimizar as consultas.
 
 **Observações:**
 
-* Foque na clareza do código e na organização do projeto.
-* Sinta-se à vontade para fazer perguntas se tiver dúvidas.
-* Seja criativo e divirta-se construindo a plataforma!
+* Demonstre seu conhecimento em boas práticas de desenvolvimento, segurança e otimização.
+* Estruture o código de forma clara e modular.
+* Comente o código para facilitar a compreensão.
+* Sinta-se à vontade para fazer perguntas e mostrar sua proatividade.
 
-**Boa sorte!** 🚀 
+**Desafie-se e mostre seu potencial!** 💪 
