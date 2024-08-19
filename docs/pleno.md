@@ -19,6 +19,7 @@
 
 **Diferenciais (Bônus):**
 
+* **Testes Unitários:** Escreva testes básicos para o frontend e o backend.
 * **Segurança:**
     * Implemente validações avançadas no frontend (campos obrigatórios, formatos de e-mail, etc.).
     * Utilize boas práticas de segurança no backend para prevenir SQL Injection e Cross-Site Scripting (XSS).
