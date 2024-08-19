@@ -21,9 +21,6 @@
 * **Segurança:**
     * Implemente validações avançadas no frontend (campos obrigatórios, formatos de e-mail, etc.).
     * Utilize boas práticas de segurança no backend para prevenir SQL Injection e Cross-Site Scripting (XSS).
-* **Otimização:**
-    * Utilize lazy loading de módulos no Angular para melhorar o desempenho de carregamento.
-    * Crie índices no banco de dados para otimizar as consultas.
 
 **Observações:**
 
