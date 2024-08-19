@@ -11,6 +11,7 @@
     * Liste todas as marcas cadastradas.
     * Visualize os detalhes de uma marca específica.
     * Edite os dados de uma marca.
+    * Relacionamento Influenciador-Marca: Permitir que influenciadores sejam associados a marcas e vice-versa.
 * **Busca Avançada:**
     * Implemente filtros para a busca de influenciadores (por nicho, alcance, etc.).
 * **Sugestões de Influenciadores (Opcional):**
